@@ -1,2 +1,2 @@
 # git-demo
-This is my first dit repo
+This is my first git repo
